@@ -1,0 +1,110 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+}
+
+.container{
+    position: relative;
+    max-width: 900px;
+    width: 100%;
+    border-radius: 6px;
+    padding: 30px;
+    margin: 0 15px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+  .profile-photo {
+   display: inline-block;
+
+}
+ 
+.profile {
+  display: inline-block;
+  font-family: fantasy;
+  }
+  
+  .input-buttons {
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+  }
+  
+  .username {
+    display: inline-block;
+    font-family: fantasy;
+  }
+  
+  .text1 {
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+  }
+  
+  .website {
+    display: inline-block;
+    font-family: fantasy;
+  }
+  
+  .text2 {
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+  }
+  
+  .your-photo {
+    display: inline-block;
+    font-family: fantasy;
+  }
+  
+  .photo-crop {
+    display: inline-block;
+    position: absolute;
+    right: 45%;
+    top: 31%;
+  }
+  
+  .h4 {
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    font-family: fantasy;  
+  }
+  
+  .your-bio {
+    display: inline-block;
+    position: absolute;
+    font-family: fantasy;
+  }
+  
+  .textarea {
+    display: inline-block;
+    margin-left: 40%;
+  }
+  
+  .job-title {
+    display: inline-block;
+    position: absolute;
+    font-family: fantasy;
+    
+  }
+  
+  .check-box {
+    display: inline-block;
+    margin-left: 40%;
+    font-family: fantasy;
+  }
+  
+  .email {
+    display: inline-block;
+    font-family: fantasy;
+  }
+  
+  .box {
+    display: inline-block;
+    position: absolute;
+    left: 41%;
+  }
